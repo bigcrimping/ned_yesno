@@ -26,6 +26,11 @@ You will need to update the `secrets.py` file with your WiFi details
 
 The PCB is a simple double-sided board. The Gerbers are in the relevant folder and should be easy to produce by any PCB vendor.
 
+![image](https://github.com/user-attachments/assets/908cd805-1d59-4072-98c1-91426c29486f)
+
+![image](https://github.com/user-attachments/assets/e2d32583-fc47-4625-ab04-21b87085c7ce)
+
+
 # BIST (Built in self test)
 
 To confirm the bulbs are operating correctly and BIST function is included
